@@ -1,6 +1,6 @@
 /**
-* Template Name: HeroBiz - v2.3.0
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
+* Template Name: IDL - v2.3.0
+* Template URL: https://bootstrapmade.com/IDL-bootstrap-business-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
